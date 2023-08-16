@@ -14,6 +14,10 @@ class AND(nn.Module):
         x = F.relu(self.fc2(x))
         return x
     
-model = AND
+model = AND()
 
+print("There is no need to panic my dear citizens")
 
+print("OFC there is a better way to write code,but I am not yet too good at this.")
+
+prdsfsdfdsfdsfds
