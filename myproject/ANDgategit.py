@@ -24,3 +24,5 @@ print("OFC there is a better way to write code,but I am not yet too good at this
 
 
 print("This is only true in the second branch called testing_new_branch.")
+
+print("This is a very special occasoin where we are needed to fix an emergency on our master branch but ther is nothing eles to do but just create another branch out of thin air, you know this is not my first time typing and I kind of like usig y a bit more than y used to yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy[yyyyyyyyyyyyyyyyyyyyyyy]")
